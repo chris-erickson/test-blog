@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Icy Wings</title><link href="http://icywings.com/" rel="alternate"></link><link href="http://icywings.com/feeds/all.atom.xml" rel="self"></link><id>http://icywings.com/</id><updated>2010-12-03T10:20:00-06:00</updated><entry><title>My super title</title><link href="http://icywings.com/2010/12/my-super-title.html" rel="alternate"></link><updated>2010-12-03T10:20:00-06:00</updated><author><name>Chris</name></author><id>tag:icywings.com,2010-12-03:2010/12/my-super-title.html</id><summary type="html">&lt;p&gt;This is the content of my super blog&amp;nbsp;post.&lt;/p&gt;
+&lt;p&gt;asd
+a&amp;nbsp;asd&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;def this_is_a_method(arg):
+    return 1 + 1
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;asd&lt;/p&gt;</summary></entry></feed>
