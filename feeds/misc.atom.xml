@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Icy Wings</title><link href="http://icywings.com/" rel="alternate"></link><link href="http://icywings.com/feeds/misc.atom.xml" rel="self"></link><id>http://icywings.com/</id><updated>2010-12-03T10:20:00-06:00</updated><entry><title>My super title</title><link href="http://icywings.com/2010/12/my-super-title.html" rel="alternate"></link><updated>2010-12-03T10:20:00-06:00</updated><author><name>Chris</name></author><id>tag:icywings.com,2010-12-03:2010/12/my-super-title.html</id><summary type="html">&lt;p&gt;This is the content of my super blog&amp;nbsp;post.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Icy Wings</title><link href="http://chris-erickson.github.io/test-blog/" rel="alternate"></link><link href="http://chris-erickson.github.io/test-blog/feeds/misc.atom.xml" rel="self"></link><id>http://chris-erickson.github.io/test-blog/</id><updated>2014-01-08T15:59:00-06:00</updated><entry><title>This was edited online</title><link href="http://chris-erickson.github.io/test-blog/2014/01/this-was-edited-online.html" rel="alternate"></link><updated>2014-01-08T15:59:00-06:00</updated><author><name>Chris</name></author><id>tag:chris-erickson.github.io,2014-01-08:test-blog/2014/01/this-was-edited-online.html</id><summary type="html">&lt;p&gt;This is a quick note I posted from&amp;nbsp;github.&lt;/p&gt;</summary></entry><entry><title>My super title</title><link href="http://chris-erickson.github.io/test-blog/2010/12/my-super-title.html" rel="alternate"></link><updated>2010-12-03T10:20:00-06:00</updated><author><name>Chris</name></author><id>tag:chris-erickson.github.io,2010-12-03:test-blog/2010/12/my-super-title.html</id><summary type="html">&lt;p&gt;This is the content of my super blog&amp;nbsp;post.&lt;/p&gt;
 &lt;p&gt;asd
 a&amp;nbsp;asd&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;def this_is_a_method(arg):
-    return 1 + 1
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;this_is_a_method&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;arg&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
