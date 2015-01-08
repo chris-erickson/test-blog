@@ -7,7 +7,7 @@ asd
 a
 asd
 
-    :::identifier
+    :::python
     def this_is_a_method(arg):
         return 1 + 1
 
